@@ -1,0 +1,89 @@
+
+h1 {
+    color: white;
+    font-family: Big Shoulders Display;
+    
+    padding-top: 15%;
+    padding-bottom: 15%;
+
+}
+
+h2 {
+    font-family: Lexend Deca;
+    font-size: 0.8rem;
+    text-align: center;
+    padding: 3% 0 3% 0;
+}
+
+p {
+
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: Lexend Deca;
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+    padding: 0 0 50px 0;
+}
+.container {
+   
+    
+    padding: 2% 10% 2% 10%;
+    width: 100%;
+}
+
+.row {
+    border-radius: 8px;
+}
+
+.sides-space {
+    padding: 5% 6% 5% 6%;
+    
+}
+
+
+
+.sedans {
+    background-color: #E38826;
+    
+   
+}
+
+.suvs {
+    background-color: #006970;
+    
+   
+}
+
+.luxury {
+    background-color: #004241;
+   
+    
+}
+
+.btn {
+    
+    border-radius: 20px;
+    text-align: center;
+            
+    
+    
+}
+
+.btn:hover {
+    background-color: transparent;
+    color:white;
+}
+
+
+
+.orange {
+    color: #E38826;
+}
+
+.blue {
+    color: #006970;
+}
+
+.green {
+    color: #004241;
+}
+
